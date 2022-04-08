@@ -1,0 +1,57 @@
+int randtext(int n){
+  switch(n){
+    case 0: n++;
+    case 1: n++;
+    case 2: n++;
+    case 3: n++;
+    case 4: n++;
+    case 5: n++;
+    case 6: n++;
+    case 7: n++;
+    case 8: n++;
+    case 9: n++;
+    case 10: n++;
+    case 11: n++;
+    case 12: n++;
+    case 13: n++;
+    case 14: n++;
+    case 15: n++;
+    case 16: n++;
+    case 17: n++;
+    case 18: n++;
+    case 19: n++;
+    case 20: n++;
+    case 21: n++;
+    case 22: n++;
+    case 23: n++;
+    case 24: n++;
+    case 25: n++;
+    case 26: n++;
+    case 27: n++;
+    case 28: n++;
+    case 29: n++;
+    case 30: n++;
+    case 31: n++;
+    case 32: n++;
+    case 33: n++;
+    case 34: n++;
+    case 35: n++;
+    case 36: n++;
+    case 37: n++;
+    case 38: n++;
+    case 39: n++;
+    case 40: n++;
+    case 41: n++;
+    case 42: n++;
+    case 43: n++;
+    case 44: n++;
+    case 45: n++;
+    case 46: n++;
+    case 47: n++;
+    case 48: n++;
+    case 49: n++;
+    case 50: n++;
+    case 51: n++;
+  }
+  return n;
+}
